@@ -21,6 +21,14 @@ Capture d'écran, enregistrement vidéo et son, mini montage pour Windows 10 / 1
   notification, lancement au démarrage de Windows possible.
 - **Français et anglais**, mises à jour automatiques.
 
+### Points forts
+
+- **Le son, sans surprise** : chaque source enregistre exactement le périphérique choisi, sans jamais toucher au son
+  par défaut de Windows. Deux sorties du PC peuvent être enregistrées en même temps, en plus du micro.
+- **Les jeux à pleine fluidité** : capture à 60 images/s, même en fenêtré.
+- **Rien de parasite** : les barres et notifications de l'appli n'apparaissent jamais dans vos captures et vidéos.
+- **Légère** : au repos dans la zone de notification, elle ne consomme rien.
+
 ## Features
 
 - **Screenshots** — a capture bar (`Ctrl + Shift + F6`): click a window or the screen, or drag an area. Annotate right
@@ -33,6 +41,37 @@ Capture d'écran, enregistrement vidéo et son, mini montage pour Windows 10 / 1
 - **Gallery** of your videos and screenshots, fully customizable shortcuts, sits quietly in the notification area,
   can start with Windows.
 - **French and English**, automatic updates.
+
+### Highlights
+
+- **Sound you can trust**: each source records exactly the device you picked, without ever touching the Windows
+  default. Two PC outputs can be recorded at once, on top of the mic.
+- **Games at full smoothness**: 60 fps capture, even in windowed mode.
+- **Nothing in the way**: the app's own bars and notifications never show up in your screenshots and videos.
+- **Lightweight**: idle in the notification area, it uses no resources.
+
+## Raccourcis / Shortcuts
+
+Tous modifiables dans *Paramètres › Raccourcis*. / All can be changed in *Settings › Shortcuts*.
+
+| Action | Raccourci / Shortcut |
+|---|---|
+| Barre de capture (photo / vidéo) · *Capture bar (photo / video)* | `Ctrl + Maj + F6` / `Ctrl + Shift + F6` |
+| Démarrer / arrêter l'enregistrement · *Start / stop recording* | `Ctrl + Maj + R` / `Ctrl + Shift + R` |
+| Pause / reprise · *Pause / resume* | `Ctrl + Maj + F10` / `Ctrl + Shift + F10` |
+| Enregistrer une zone · *Record an area* | `Ctrl + Maj + F7` / `Ctrl + Shift + F7` |
+| Enregistrer une fenêtre · *Record a window* | `Ctrl + Maj + F8` / `Ctrl + Shift + F8` |
+| Enregistrer l'écran · *Record the screen* | `Ctrl + Maj + F9` / `Ctrl + Shift + F9` |
+| Couper / rétablir le micro · *Mute / unmute the mic* | `Ctrl + Maj + F11` / `Ctrl + Shift + F11` |
+| Afficher la fenêtre · *Show the window* | `Ctrl + Maj + F12` / `Ctrl + Shift + F12` |
+
+## Configuration requise / Requirements
+
+- Windows 11, ou Windows 10 version 2004 ou plus récente, 64 bits. / *Windows 11, or Windows 10 version 2004 or later,
+  64-bit.*
+- Environ 400 Mo d'espace disque. / *About 400 MB of disk space.*
+- Une carte graphique récente accélère l'encodage (NVIDIA, Intel, AMD) ; sinon le processeur prend le relais. /
+  *A recent graphics card speeds up encoding (NVIDIA, Intel, AMD); otherwise the CPU takes over.*
 
 ## Télécharger / Download
 
