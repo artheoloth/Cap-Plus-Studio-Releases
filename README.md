@@ -6,11 +6,24 @@
 Capture d'écran, enregistrement vidéo et son, mini montage pour Windows 10 / 11.
 *Screenshots, video and sound recording, quick editing for Windows 10 / 11.*
 
+**[⬇ Télécharger / Download](../../releases/latest)**
+
+<p align="center">
+  <img src="docs/barre-de-capture.png" width="520" alt="Barre de capture : zone sélectionnée, flèche et rectangle d'annotation">
+  <br><sub>Barre de capture : sélection, annotation directe, puis Capturer. · <i>Capture bar: select, annotate, capture.</i></sub>
+</p>
+
+| | |
+|---|---|
+| <img src="docs/fenetre-principale.png" alt="Fenêtre principale"><br><sub>Fenêtre principale : capture, enregistrement, sources audio. · <i>Main window.</i></sub> | <img src="docs/galerie.png" alt="Galerie"><br><sub>Galerie des vidéos, captures et sons. · <i>Gallery.</i></sub> |
+| <img src="docs/montage-video.png" alt="Montage vidéo"><br><sub>Mini montage vidéo : couper, rendre muet, ajouter un son. · <i>Video editing.</i></sub> | <img src="docs/loupe.png" alt="Loupe de sélection"><br><sub>Loupe pour tracer une zone au pixel près. · <i>Pixel-precise magnifier.</i></sub> |
+| <img src="docs/montage-audio.png" alt="Montage audio"><br><sub>Enregistrement et montage du son seul. · <i>Sound-only recording and editing.</i></sub> | <img src="docs/parametres.png" alt="Paramètres vidéo"><br><sub>Paramètres : encodeur, qualité, méthode de capture. · <i>Settings.</i></sub> |
+
 ## Fonctionnalités
 
 - **Capture d'écran** — une barre de capture (`Ctrl + Maj + F6`) : clic sur une fenêtre ou l'écran, ou glisser une
-  zone. Annotation directe sur la capture (stylo, surligneur, flèche, rectangle, rond, texte, gomme), copie dans le
-  presse-papiers.
+  zone, avec une loupe pour viser au pixel près. Annotation directe sur la capture (stylo, surligneur, flèche,
+  rectangle, rond, texte, gomme), copie dans le presse-papiers.
 - **Enregistrement vidéo** — d'une zone, d'une fenêtre ou d'un écran, avec le son du PC et le micro choisis
   séparément (compatible Voicemeeter). Pause, micro coupé à la volée, accélération par la carte graphique (NVIDIA,
   Intel, AMD) ou par le processeur. La vidéo terminée est copiée : `Ctrl + V` pour la coller dans Discord.
@@ -32,7 +45,8 @@ Capture d'écran, enregistrement vidéo et son, mini montage pour Windows 10 / 1
 ## Features
 
 - **Screenshots** — a capture bar (`Ctrl + Shift + F6`): click a window or the screen, or drag an area. Annotate right
-  on the capture (pen, highlighter, arrow, rectangle, circle, text, eraser), copy to the clipboard.
+  on the capture (pen, highlighter, arrow, rectangle, circle, text, eraser), with a magnifier for pixel-precise areas,
+  copy to the clipboard.
 - **Video recording** — of an area, a window or a screen, with PC sound and mic picked separately (Voicemeeter
   friendly). Pause, mute the mic on the fly, hardware encoding (NVIDIA, Intel, AMD) or CPU. The finished video is
   copied: `Ctrl + V` to paste it in Discord.
