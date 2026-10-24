@@ -28,8 +28,9 @@ Capture d'écran, enregistrement vidéo et son, mini montage pour Windows 10 / 1
   séparément (compatible Voicemeeter). Pause, micro coupé à la volée, accélération par la carte graphique (NVIDIA,
   Intel, AMD) ou par le processeur. La vidéo terminée est copiée : `Ctrl + V` pour la coller dans Discord.
 - **Son seul** — enregistrement en M4A, MP3 ou WAV.
-- **Mini montage** — couper, retirer des passages, rendre muet, volume par piste, ajouter une musique ; export en MP4
-  ou en GIF animé.
+- **Mini montage** — couper, retirer des passages, rendre muet, volume par piste, ajouter une musique, retirer l'image
+  pour ne garder que le son, ajouter une seconde vidéo (par-dessus ou à la suite) ; export en MP4, en GIF animé ou en
+  son seul (M4A, MP3, WAV).
 - **Galerie** de vos vidéos et captures, raccourcis entièrement personnalisables, discrète dans la zone de
   notification, lancement au démarrage de Windows possible.
 - **Français et anglais**, mises à jour automatiques.
@@ -51,7 +52,8 @@ Capture d'écran, enregistrement vidéo et son, mini montage pour Windows 10 / 1
   friendly). Pause, mute the mic on the fly, hardware encoding (NVIDIA, Intel, AMD) or CPU. The finished video is
   copied: `Ctrl + V` to paste it in Discord.
 - **Sound only** — record to M4A, MP3 or WAV.
-- **Quick editing** — cut, remove parts, mute, per-track volume, add music; export to MP4 or animated GIF.
+- **Quick editing** — cut, remove parts, mute, per-track volume, add music, remove the image to keep only the sound,
+  add a second video (on top or after the end); export to MP4, animated GIF or sound only (M4A, MP3, WAV).
 - **Gallery** of your videos and screenshots, fully customizable shortcuts, sits quietly in the notification area,
   can start with Windows.
 - **French and English**, automatic updates.
